@@ -1,0 +1,13 @@
+humanstxt.org/
+
+# TEAM
+
+  Developer -- @middleman-bss
+
+# TECHNOLOGY
+
+  Middleman, Slim, SCSS
+  Bootstrap, Font Awesome, jQuery, Livereload, Autoprefixer
+  rbenv, ruby-build, nodejs, bundler
+
+  Source: https://github.com/hello-jason/middleman-bss
