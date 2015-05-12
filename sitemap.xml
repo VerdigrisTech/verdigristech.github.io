@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://change.this/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/new/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>http://change.this/routine-circuit-activity/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/routine-circuit-alert/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/routine-circuit-threshold/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://change.this/routines/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://change.this/summary/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://change.this/task-building-baseline/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://change.this/task-building-demand/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://change.this/task-circuit-activity/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://change.this/task-circuit-alert/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://change.this/task-circuit-threshold/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://change.this/sample/</loc>
-    <lastmod>2015-04-20T00:00:00-07:00</lastmod>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/summary/</loc>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://change.this/task-building-baseline/</loc>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/task-building-demand/</loc>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/task-circuit-activity/</loc>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/task-circuit-alert/</loc>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/task-circuit-threshold/</loc>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://change.this/trackers/</loc>
+    <lastmod>2015-05-12T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
   </url>
 </urlset>
